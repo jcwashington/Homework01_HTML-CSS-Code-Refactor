@@ -37,5 +37,5 @@ The following image shows the web application's appearance and functionality:
 
 You can view the completed page at this URL:
 
-https://jcwashington.github.io/Homework01_HTML-CSS-Code-Refactor
+https://jcwashington.github.io/Homework01_HTML-CSS-Code-Refactor/
 
